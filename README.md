@@ -1,5 +1,7 @@
-![Hello cat](https://github.com/user-attachments/assets/4fa0d5b3-1438-4c61-a74d-2d596a2e6646)
 
+<p align=right>
+<img width=150 src="![Hello cat](https://github.com/user-attachments/assets/4fa0d5b3-1438-4c61-a74d-2d596a2e6646)" />
+</p>
 
 # Hello! 👋
 My name is **Nur Aisyah Athirah** and Welcome to my GitHub!
