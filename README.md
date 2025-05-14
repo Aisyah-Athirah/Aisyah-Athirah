@@ -1,6 +1,6 @@
 
 <p align=center>
-<img width=150 src="Hello cat.gif" />
+<img width=300 src="Hello cat.gif" />
 </p>
 
 # Hello! 👋
