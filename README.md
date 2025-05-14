@@ -1,6 +1,6 @@
 
 <p align="center">
-//![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
+![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
 </p>
 
 
