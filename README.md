@@ -1,5 +1,7 @@
 
-                                    ![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
+<div align="center">
+  ![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
+</div>
 
 
 ## Hello! 👋
