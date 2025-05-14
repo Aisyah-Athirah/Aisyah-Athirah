@@ -1,9 +1,9 @@
 
-![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
+                                    ![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
 
-👋 Hi there! I'm Nur Aisyah Athirah
 
-Welcome to my GitHub!
+## Hello! 👋
+My name is **Nur Aisyah Athirah** and Welcome to my GitHub!
 
 I'm an aspiring data analyst and future data scientist with a background in Physics and a strong curiosity about how data can drive better decisions. Currently, I'm diving deep into the world of data and sharpening my skills in:
 
