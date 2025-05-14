@@ -1,8 +1,4 @@
-
-<p align=center>
-<img width=150 src="![Hello cat](https://github.com/user-attachments/assets/4fa0d5b3-1438-4c61-a74d-2d596a2e6646)" />
-</p>
-
+![Hello cat](https://github.com/user-attachments/assets/4fa0d5b3-1438-4c61-a74d-2d596a2e6646)
 
 
 # Hello! 👋
