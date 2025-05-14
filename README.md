@@ -1,7 +1,8 @@
 
 <p align="center">
-![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
+![Hello cat](https://github.com/user-attachments/assets/4fa0d5b3-1438-4c61-a74d-2d596a2e6646)
 </p>
+
 
 
 # Hello! 👋
