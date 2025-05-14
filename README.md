@@ -1,5 +1,5 @@
 
-![hippo](https://drive.google.com/file/d/1pw1B-4jXAN4aZitQU3G-_8HhexfyiGf7/view?usp=drive_link)
+![hello](https://github.com/Aisyah-Athirah/Aisyah-Athirah/blob/main/Hello%20cat.gif)
 
 👋 Hi there! I'm Nur Aisyah Athirah
 
